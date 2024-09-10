@@ -6,3 +6,5 @@ python-dotenv
 datasets
 transformers
 torch
+fastapi
+uvicorn
