@@ -1,0 +1,10 @@
+langchain-core
+langchain-community
+langchain-openai
+langchain_google_genai
+python-dotenv
+datasets
+transformers
+torch
+fastapi
+uvicorn
